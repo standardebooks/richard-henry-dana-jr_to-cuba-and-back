@@ -69,7 +69,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eugenio_Lucas_Villaamil</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no92005238</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Kevin Palm</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Palm, Kevin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
