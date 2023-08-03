@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/richard-henry-dana-jr/to-cuba-and-back</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-08-03T17:19:17Z</dc:date>
+		<meta property="dcterms:modified">2023-08-03T17:19:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,14 +49,14 @@
 		<dc:description id="description">A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In 1859, as the United States was contemplating the annexation of Cuba, &lt;a href="https://standardebooks.org/ebooks/richard-henry-dana-jr"&gt;Richard Henry Dana Jr.&lt;/a&gt;, author of &lt;a href="https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast"&gt;&lt;i&gt;Two Years Before the Mast&lt;/i&gt;&lt;/a&gt;, booked passage on the steamer &lt;i&gt;Cahawba&lt;/i&gt; to visit the island and see for himself what conditions were like there.&lt;/p&gt;
-			&lt;p&gt;In this immersive narrative, Dana paints a vivid picture of his experiences exploring the heart of Cuba. He skillfully captures the essence of Cuban culture, recounting encounters with its vibrant cities, picturesque landscapes, and the warmth of its people. Beyond simply being a travel memoir, the work delves into the deeper social and political aspects of Cuba during the time of his travels, including the impact of colonization, slavery, and the rise of nationalism, offering readers a deeper understanding of the country’s complexities. It reflects Dana’s keen interest in understanding the local customs, traditions, and the challenges faced by the Cuban people. Through his encounters with various individuals, Dana shares insightful anecdotes that provide valuable insights into the island’s history and society. The book stands as a bridge between cultures, inviting readers to explore the wonders of Cuba while also contemplating the intricacies and complexities of its past and present.&lt;/p&gt;
+			&lt;p&gt;In this immersive narrative, Dana paints a vivid picture of his experiences exploring the heart of Cuba. He skillfully captures the essence of Cuban culture, recounting encounters with its vibrant cities, picturesque landscapes, and the warmth of its people. Beyond simply being a travel memoir, the work delves into the deeper social and political aspects of Cuba during the time of his travels, including the impact of colonization, slavery, and the rise of nationalism, offering readers a deeper understanding of the country’s complexities. It reflects Dana’s keen interest in understanding the local customs, traditions, and the challenges faced by the Cuban people.&lt;/p&gt;
+			&lt;p&gt;Through his encounters with various individuals, Dana shares insightful anecdotes that provide valuable insights into the island’s history and society. The book stands as a bridge between cultures, inviting readers to explore the wonders of Cuba while also contemplating the intricacies and complexities of its past and present.&lt;/p&gt;
 			&lt;p&gt;Dana’s journey also serves as a personal voyage of self-discovery, as he confronts his own biases and preconceptions, leading to a greater appreciation for the beauty and diversity of Cuban society. His engaging storytelling and keen observations make this memoir a must-read for anyone seeking a deeper understanding of Cuba and the transformative power of travel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.google.com/books/edition/To_Cuba_and_Back/wEsXAAAAYAAJ</dc:source>
-		<meta property="se:production-notes">Manually transcribed from 1887 edition from Google Books.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">52380</meta>
+		<meta property="se:reading-ease.flesch">63.73</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-henry-dana-jr_to-cuba-and-back</meta>
 		<dc:creator id="author">Richard Henry Dana Jr.</dc:creator>
 		<meta property="file-as" refines="#author">Jr., Richard Henry Dana</meta>
@@ -78,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
