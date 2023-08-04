@@ -60,7 +60,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-henry-dana-jr_to-cuba-and-back</meta>
 		<dc:creator id="author">Richard Henry Dana Jr.</dc:creator>
 		<meta property="file-as" refines="#author">Jr., Richard Henry Dana</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Henry_Dana_Jr.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79053869</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
