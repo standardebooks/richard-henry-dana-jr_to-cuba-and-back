@@ -30,7 +30,6 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
@@ -59,4 +58,3 @@ section[epub|type~="dedication"] > *{
 	display: none;
 }
 /* End inline verse/song */
-
