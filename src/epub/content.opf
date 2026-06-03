@@ -46,6 +46,8 @@
 		<meta property="term" refines="#subject-2">sh85144443</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85034551</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">A captivating travel memoir recounting an 1859 journey to Cuba, offering vivid descriptions of the island’s culture, landscapes, and people.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
