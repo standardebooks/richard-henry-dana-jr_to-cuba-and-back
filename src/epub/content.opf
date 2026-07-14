@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">To Cuba and Back: A Vacation Voyage</dc:title>
 		<meta property="file-as" refines="#fulltitle">To Cuba and Back: A Vacation Voyage</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Seafaring life</dc:subject>
 		<dc:subject id="subject-2">Voyages and travels</dc:subject>
 		<dc:subject id="subject-3">Cuba -- Description and travel</dc:subject>
